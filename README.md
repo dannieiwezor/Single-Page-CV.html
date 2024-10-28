@@ -32,8 +32,8 @@
 
   <section>     
          <h2 style="color:blue;">Experience</h2>
-         <h3 style="color:green;">Dalzon Diagnostics, Assistant Radiographer</h3>
-         <p>June 2020 - June 2021</p>
+         <h3 style="color:green;">Dalzon Diagnostics, Imaging Assistant</h3>
+         <p>January 2020 - August 2020</p>
   </section>
 
 <section> 
@@ -57,8 +57,30 @@
        Radiation safety principles and practices</p>
    </section>
 
-F
+<section>
+        <h3>Fedral State University, Pathology Intern</h3>
+        <p>August 2020 - December 2020</p>
 
+<section> 
+    <ul>
+         <li>Proficiency in Post-Mortem Procedures</li>
+         <li>Forensic Case Experience</li>
+         <li>Documentation and Reporting</li>
+         <li>Interdisciplinary Collaboration</li>
+         <li>Ethics and Sensitivity Training</li>
+    </ul>
+</section>
+    <h4>Additional Skills:</h4>
+    <p>Anatomical and Pathological Knowledge,
+       Forensic Analysis and Observation,
+       Biopsy and Tissue Sampling,
+       Specimen Handling and Preservation,
+       Psychological Resilience,
+       Safety and Sanitation Protocols,
+       Confidentiality and Discretion</p>
+
+<h2 style="color:blue;">Accross the Internet</h2>
+<p>LinkedIn: <a href="https://linkedin.com/in/danieliwezor">linkedin.com/in/danieliwezor</a></p>,
 
 
 </body>
