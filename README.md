@@ -69,8 +69,8 @@
          <li>Interdisciplinary Collaboration</li>
          <li>Ethics and Sensitivity Training</li>
     </ul>
-</section>
-    <h4>Additional Skills:</h4>
+
+<h4>Additional Skills:</h4>
     <p>Anatomical and Pathological Knowledge,
        Forensic Analysis and Observation,
        Biopsy and Tissue Sampling,
@@ -78,9 +78,15 @@
        Psychological Resilience,
        Safety and Sanitation Protocols,
        Confidentiality and Discretion</p>
+</section>
 
-<h2 style="color:blue;">Accross the Internet</h2>
-<p>LinkedIn: <a href="https://linkedin.com/in/danieliwezor">linkedin.com/in/danieliwezor</a></p>,
+<section> 
+   <h2 style="color:blue;">Accross the Internet</h2>
+   <p>
+  LinkedIn: <a href="https://Linkedin.com/in/danieliwezor">linkedin.com/in/danieliwezor</a>
+  Github: <a href="https://Github.com/dannieiwezor">github.com/dannieiwezor</a>
+   </p>
+</section>
 
 
 </body>
