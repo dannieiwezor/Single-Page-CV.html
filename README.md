@@ -18,4 +18,13 @@ I was made course representive for my classes.</P>
 Enhanced Problem Solving Abilities<BR>
 Improved Critical Thinking Skills<BR>
 Developed Patient Solving Skills</P>
-<p>Skills:
+<p>Skills: Operations of radiographic equipement,
+Image acquisition and processing,
+Quality assurance and control,
+Effective communication with patients
+and healthcare proffessionals,
+Empathy and compassion for patients,
+Attention to detail,
+Problem solving and critical thinking,
+Spatial reasoning and visualisation,
+Radiation safety principles and practices</p>
