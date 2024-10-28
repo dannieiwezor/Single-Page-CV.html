@@ -14,10 +14,10 @@ I was made course representive for my classes.</P>
 <h3 style="color:blue;">Experience</h3>
 <h2 style="color:green;">Dalzon Diagnostics, Assistant Radiographer</h2>
 <p>June 2020 - June 2021</p>
-<P>Acquired Radiation Safety Knowledge<BR>
-Enhanced Problem Solving Abilities<BR>
-Improved Critical Thinking Skills<BR>
-Developed Patient Solving Skills</P>
+<P>• Acquired Radiation Safety Knowledge<BR>
+• Enhanced Problem Solving Abilities<BR>
+• Improved Critical Thinking Skills<BR>
+• Developed Patient Solving Skills</P>
 <p>Skills: Operations of radiographic equipement,
 Image acquisition and processing,
 Quality assurance and control,
