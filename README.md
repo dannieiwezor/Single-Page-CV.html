@@ -12,7 +12,7 @@
      <h1> Daniel Ebuka </h1>
      <h2 style="color:blue;">Junior Frontend Developer</h2>
      <p>123 World Bank<BR>
-         Imo, 12345<BR>
+         Lagos, 12345<BR>
      +234 123-123-2009<BR>
      <a href="mailto:Kuratespace@gmail.com">Kuratespace@gmail.com</a>
   </header>
@@ -83,7 +83,7 @@
 <section> 
    <h2 style="color:blue;">Accross the Internet</h2>
    <p>
-  LinkedIn: <a href="https://Linkedin.com/in/danieliwezor">linkedin.com/in/danieliwezor</a>
+  LinkedIn: <a href="https://Linkedin.com/in/danieliwezor">linkedin.com/in/danieliwezor</a>,
   Github: <a href="https://Github.com/dannieiwezor">github.com/dannieiwezor</a>
    </p>
 </section>
