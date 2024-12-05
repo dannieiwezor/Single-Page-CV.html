@@ -9,25 +9,25 @@
 <body>
  
   <header>
-     <h1> Daniel Ebuka </h1>
-     <h2 style="color:blue;">Junior Frontend Developer</h2>
+     <h1> Your Name </h1>
+     <h2 style="color:green;">Junior Frontend Developer</h2>
      <p>123 World Bank<BR>
          Lagos, 12345<BR>
-     +234 123-123-2009<BR>
-     <a href="mailto:Kuratespace@gmail.com">Kuratespace@gmail.com</a>
+     (123) 456-7890<BR>
+      <a href="mailto:no_reply@example.com" no_reply@example.com</a>
   </header>
 
 <h2 style="color:blue;">Skills</h2>
 
  <section> 
-     <p>HTML, CSS, JavaScript, UI/UX, Figma to Design , Responsive Web Design, Web Performance Optimization, Presentation</p>
+     <p>HTML, CSS, JavaScript, UI/UX, Figma to Design , Responsive Web Design, Technical Writing, Presentation</p>
  </section>
 
  <section>  
-     <h2 style="color:blue;">Education</h2>
-     <h3 style="color:green;">Gregory University, Abia State - Anatomy</h3>
-     <P>December 2018 - September 2022</P>
-     <p>I was made course representive for my classes.</P>
+     <h2 style="color:green;">Education</h2>
+     <h3 style="color:blue;">School Name, Location - Degree</h3>
+     <P>Month 20xx - Month 20xx</P>
+     <p>List of exciting things you did at university.</P>
  </section>
 
   <section>     
