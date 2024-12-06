@@ -31,54 +31,32 @@
  </section>
 
   <section>     
-         <h2 style="color:blue;">Experience</h2>
-         <h3 style="color:green;">Dalzon Diagnostics, Imaging Assistant</h3>
-         <p>January 2020 - August 2020</p>
+         <h2 style="color:green;">Experience</h2>
+         <h3 style="color:blue;">Company Name, Location - Job Title</h3>
+         <p>Month 20xxh - Month 20xx</p>
   </section>
 
 <section> 
     <ul>
-         <li> Acquired Radiation Safety Knowledge</li>
-         <li> Enhanced Problem Solving Abilities</li>
-         <li> Improved Critical Thinking Skills</li>
-         <li> Developed Patient Solving Skills</li>
+         <li>List of achievements</li>
+         <li>List of achievements</li>
+         <li>List of achievements</li>
     </ul>
  </section>
-    <h4>Additional Skills:</h4>
-    <p>Operations of radiographic equipement,
-       Image acquisition and processing,
-       Quality assurance and control,
-       Effective communication with patients
-       and healthcare proffessionals,
-       Empathy and compassion for patients,
-       Attention to detail,
-       Problem solving and critical thinking,
-       Spatial reasoning and visualisation,
-       Radiation safety principles and practices</p>
-   </section>
-
-<section>
-        <h3>Fedral State University, Pathology Intern</h3>
-        <p>August 2020 - December 2020</p>
-
-<section> 
+ <p>Skills: List of skills used or gained at this company</p>
+ 
+  <section> 
+      <h3 style="color:blue;">Company Name, Location - Job Title</h3>
+         <p>Month 20xxh - Month 20xx</p>
+  </section>
+    <section> 
     <ul>
-         <li>Proficiency in Post-Mortem Procedures</li>
-         <li>Forensic Case Experience</li>
-         <li>Documentation and Reporting</li>
-         <li>Interdisciplinary Collaboration</li>
-         <li>Ethics and Sensitivity Training</li>
+         <li>List of achievements</li>
+         <li>List of achievements</li>
+         <li>List of achievements</li>
     </ul>
-
-<h4>Additional Skills:</h4>
-    <p>Anatomical and Pathological Knowledge,
-       Forensic Analysis and Observation,
-       Biopsy and Tissue Sampling,
-       Specimen Handling and Preservation,
-       Psychological Resilience,
-       Safety and Sanitation Protocols,
-       Confidentiality and Discretion</p>
-</section>
+ </section>
+  <p>Skills: List of skills used or gained at this company</p>
 
 <section> 
    <h2 style="color:blue;">Accross the Internet</h2>
