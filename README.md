@@ -13,6 +13,9 @@
   <meta property="og:description" content="Check out my GitHub for projects in frontend development. Always learning and building!">
   <meta property="og:image" content="https://yourgithubprofileimageurl.jpg">
   <meta property="og:url" content="https://github.com/dannieiwezor">
+
+  <!-- Favicon for Browsers -->
+<link rel="icon" type="image/x-icon" href="favicon.ico">
      
 </head>
 <body>
@@ -29,7 +32,7 @@
 <h2 style="color:blue;">Skills</h2>
 
  <section> 
-     <p>HTML, CSS, JavaScript, UI/UX, Figma to Design , Responsive Web Design, Technical Writing, Presentation</p>
+     <p>HTML, CSS, JavaScript, Accessibility, Figma to Design , Responsive Web Design, Technical Writing, Presentation</p>
  </section>
 
  <section>  
