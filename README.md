@@ -2,17 +2,26 @@
 <html lang="en"> 
 <head>  
      <meta charset="UTF-8">
+     <!-- SEO Meta Tags -->
           <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <meta name="description" content="Daniel Ebuka - Junior Frontend Developer with skills in HTML, CSS, JavaScript, UI/UX, and Responsive Design.">
-         
+         <meta name="author" content="Dannie">
+     <meta name="keywords" content="frontend developer, HTML, React, CSS, GitHub, beginner, macOS, Nigeria">
+
+ <!-- Open Graph Tags -->
+  <meta property="og:title" content="Daniel Iwezor | Developer">
+  <meta property="og:description" content="Check out my GitHub for projects in frontend development. Always learning and building!">
+  <meta property="og:image" content="https://yourgithubprofileimageurl.jpg">
+  <meta property="og:url" content="https://github.com/dannieiwezor">
+     
 </head>
 <body>
  
   <header>
      <h1> Your Name </h1>
      <h2 style="color:green;">Junior Frontend Developer</h2>
-     <p>123 World Bank<BR>
-         Lagos, 12345<BR>
+     <p>123 Your Street<BR>
+        Your city, ST 12345<BR>
      (123) 456-7890<BR>
       <a href="mailto:no_reply@example.com" no_reply@example.com</a>
   </header>
